@@ -1,3 +1,9 @@
+PASO 1:
+SE HA CREADO UNA RAMA ASI QUE DEBES DE DIRIGRTE A ELLO COMO PUEDES VER DA CLICK EN MAIN ALLI TE SALDRA OTRA rama que se llamma feature/modelo-relacional
+
+![image](https://github.com/user-attachments/assets/373d3a96-c630-4e9f-bca3-15277eb64769)
+
+
 este es una base de datos relacionado a cursos con la finalidad de practicar, recuerda que se te comparte 
 - modelo relacional
 - bd.sql
